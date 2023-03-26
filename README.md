@@ -56,7 +56,7 @@ docker run --rm -w /kikit -v $PWD:/kikit yaqwsx/kikit kikit fab jlcpcb --assembl
 
 Il n'existe pas de manuel spécifique à ce produit, mais vous pouvez retrouver le manuel du relais temporisé 3 min qui est très similaire.
 
-[Manuel FR](docs/manual_fr.pdf)
+[Manuel FR](https://github.com/LECTIX/LEC011001-Relais-Temporise-3min30/blob/main/docs/manual_fr.pdf)
 
 ## License
 Tous nos fichiers sont plubliés sous la license CERN Open Hardware Licence Version 2 - Strongly Reciprocal
